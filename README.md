@@ -1,55 +1,54 @@
-# 👋 Hello, I'm Valdemiro Américo
+<h1 align="center">Hi 👋, I'm Valdemiro Américo</h1>
+<h3 align="center">A passionate Data Scientist from Mozambique 🇲🇿</h3>
 
-🎓 **Statistician** | 📊 **Data Scientist** | 🌍 **Data Analyst**  
-💡 **Passionate about Research**, **Data Science**, **Biostatistics**, **Quantitative Genetics**, and **Statistical Learning**  
-📍 Based in Viçosa, MG, Brazil 🇧🇷 | Originally from Mozambique 🇲🇿 
-
----
-
-## 🧑‍💼 About Me
-
-I'm a Mozambican statistician and data scientist with hands-on experience in **data analysis**, and **Research**.  
-I’ve collaborated with institutions such as **UNU-WIDER**, **Ipsos Mozambique**, and **Bassela Consultoria**, delivering insights that inform policy and impact measurement.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=valdemiroamerico&label=Profile%20views&color=0e75b6&style=flat" alt="valdemiroamerico" />
+</p>
 
 ---
 
-## 🛠️ Technical Skills
-
-- **Programming & Analysis:** Python, R, STATA, SPSS, SQL, LaTeX  
-- **Data Collection Tools:** KoboToolbox, ODK Collect, Microsoft Forms  
-- **Databases:** MySQL  
-- **Reporting & Dashboards:** Microsoft Excel, Data Visualization  
-- **Languages:** Portuguese (Fluent), English (Intermediate)
+- 🔭 I’m currently working on **Monitoring and Evaluation of Youth Employment Programs**  
+- 🌱 I’m currently learning **Advanced Machine Learning** and **Causal Inference**
+- 💬 Ask me about **R, Stata, SPSS, Python, and SQL**
+- 📫 How to reach me: **valdemiroeusebio2@gmail.com**
+- 📄 Know about my experiences: [View my CV](https://drive.google.com/file/d/1CvF8hY6-mEU-Example-Link/view?usp=sharing) <!-- substitua pelo link real do seu CV no Google Drive ou outro local público -->
 
 ---
 
-## 📚 Education
-
-**Master’s in Applied Statistics and Biometry**  
-Federal University of Viçosa – Ongoing (2025–2027)
-
-**B.Sc. in Statistics**  
-Eduardo Mondlane University (2017–2022)  
-
----
-
-## 📄 Featured Research
-
-- [📘 Inclusive Growth in Mozambique – The Employment Journey](https://www.wider.unu.edu/sites/default/files/Events/PDF/Papers/employment-journey-mozambique.pdf)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/valdemiroamerico" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valdemiroamerico" height="30" width="40" />
+  </a>
+</p>
 
 ---
 
-## 🌐 Let's Connect
-
-- ✉️ Email: valdemiroeusebio2@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/valdemiro-eus%C3%A9bio-am%C3%A9rico-53aa23161)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.r-project.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg" alt="r" width="40" height="40"/>
+  </a>
+  <a href="https://www.stata.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stata/stata-original-wordmark.svg" alt="stata" width="60" height="25"/>
+  </a>
+  <a href="https://www.ibm.com/products/spss-statistics" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spss/spss-original.svg" width="60" height="25"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
-_Always learning. Always analyzing. Always contributing._
+<h3 align="left">📊 GitHub Stats</h3>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=valdemiroamerico&show_icons=true&locale=en&layout=compact" alt="valdemiroamerico" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=valdemiroamerico&show_icons=true&locale=en" alt="valdemiroamerico" /></p>
 
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valdemiroamerico&" alt="valdemiroamerico" /></p>
