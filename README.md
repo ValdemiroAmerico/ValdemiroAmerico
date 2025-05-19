@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **Advanced Machine Learning** and **Causal Inference**
 - 💬 Ask me about **R, Stata, SPSS, Python, and SQL**
 - 📫 How to reach me: **valdemiroeusebio2@gmail.com**
-- 📄 Know about my experiences: [View my CV](https://drive.google.com/file/d/1CvF8hY6-mEU-Example-Link/view?usp=sharing) <!-- substitua pelo link real do seu CV no Google Drive ou outro local público -->
+- 📄 Know about my experiences: [View my CV](https://drive.google.com/file/d/1ICJjAVZ5Mrl5iagMrxLtJ9MUQJGSytba/view?usp=drive_link) <!-- substitua pelo link real do seu CV no Google Drive ou outro local público -->
 
 ---
 
